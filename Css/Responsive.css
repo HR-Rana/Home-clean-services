@@ -1,0 +1,162 @@
+@media (max-width:992px) {
+    .hero-area .hero-content {
+        width: 65%;
+        margin: 0 auto;
+        text-align: center;
+
+    }
+
+    .team-section .card {
+        width: 95%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+
+    }
+
+    .team-card .card-left {
+        width: 100%;
+        max-height: 100%;
+    }
+
+
+    .team-card .card-right {
+        width: 100%;
+        max-height: 200px !important;
+        object-fit: contain;
+        padding: 0px;
+    }
+
+    .repair-services .left-content {
+        padding: 15px !important;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px) {
+    .Navigation .logo-site {
+        width: 65%;
+    }
+
+    .call-button {
+        width: 50%;
+        display: flex;
+        justify-content: end;
+    }
+
+    .call-button {
+        width: 35%;
+        text-align: right;
+    }
+
+
+    .hero-area .hero-content h1 {
+        font-size: 45px;
+
+    }
+
+    .Advantage-section h2 {
+        font-size: 32px;
+
+    }
+
+    .team-section h2 {
+        font-size: 30px;
+    }
+
+    .team-section .card {
+        width: 95%;
+        margin: 0;
+        display: flex;
+        flex-direction: row !important;
+    }
+
+    .team-card .card-left {
+        width: 50%;
+    }
+
+    .team-card .card-right {
+        width: 50%;
+        max-height: 100% !important;
+        object-fit: contain;
+    }
+
+    .contact-area .col-md-4 {
+        margin: 15px 0;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .contact-area svg {
+        font-size: 15px;
+    }
+}
+
+
+
+
+@media (max-width:576px) {
+
+    .hero-area .hero-content {
+        width: 95%;
+    }
+
+    .hero-area .hero-content h1 {
+        font-size: 35px;
+    }
+
+    .hero-area .hero-content button {
+        padding: 10px 15px;
+    }
+
+    .team-section .card {
+        width: 85%;
+        margin: 0 auto;
+        flex-direction: column;
+    }
+
+    .team-card .card-left {
+        width: 100%;
+        max-height: 100%;
+    }
+
+
+    .team-card .card-right {
+        width: 100%;
+        max-height: 250px !important;
+    }
+
+    .team-card .card-right img {
+        object-fit: cover;
+    }
+
+    .repair-services .left-content svg {
+        font-size: 60px;
+    }
+
+    form {
+        margin: 25px 0;
+    }
+
+    form input {
+        width: 100%;
+    }
+
+    form textarea {
+        width: 100%;
+    }
+
+
+
+}
