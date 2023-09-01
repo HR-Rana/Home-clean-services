@@ -1,1 +1,6 @@
-# Home-clean-services
+# Home-clean-services is and html css website template..
+this is design just for practice purpose, and improve skill about cleaning website... 
+it also full of Responsive with all devices include mobile devices too...
+
+there are used:
+Pure html, CSS, Bootstrap
